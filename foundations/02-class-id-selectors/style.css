@@ -1,4 +1,4 @@
-p {
+.odd {
     color: black;
     background-color: pink;
     font-family: Verdana, "DejaVu Sans", sans-serif;
@@ -7,13 +7,11 @@ p {
 .big-p {
     color: black;
     background-color: pink;
-    font-size: 24px;
-    font-weight: bold;
+    font-size: 24px; 
 }
 
 #num-2 {
     color: blue;
-    font-weight: bold;
     font-size: 36px;
 }
 
