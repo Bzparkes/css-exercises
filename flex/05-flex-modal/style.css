@@ -44,22 +44,18 @@ body {
   display: flex;
   margin: 0px;
   padding: 0px;
-  margin: auto;
+  margin: 8px;
   width: auto;
 }
 
 .icon-box {
   display: flex;
   flex-grow: 1;
-  padding-top: 20px;
-  padding-left: 15px;
+  padding-top: 10px;
+  padding-left: 10px;
+  margin-right: 10px;
 }
 
-.cross-box {
-  display: flex;
-  padding-top: 30px;
-  padding-right: 15px;
-}
 
 .icon {
   color: royalblue;
@@ -71,7 +67,7 @@ body {
   border-radius: 50%;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items:center;
   
 }
 
@@ -81,12 +77,13 @@ body {
   color: #888;
   font-weight: 400;
   font-size: 16px;
-  height: 24px;
+  height: 20px;
   width: 24px;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-right: 15px;
+  margin-right: 10px;
+  flex-grow: 1;
 }
 
 .text3 {
